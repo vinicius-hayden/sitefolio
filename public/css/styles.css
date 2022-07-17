@@ -5,14 +5,16 @@
 }
 
 .mainHeader {
-  padding: 10px;
-  text-align: left;
-  background-image: url('https://capturedtracks.com/files/Wild-Nothing-Thumbnail-Website.jpg');
+  background-image: url('https://media.vanityfair.com/photos/5b86dbc14242d94606988409/master/pass/wild-nothing-lede.jpg');
   background-size: cover;
-  color: white;
-  font-size: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 50vh;
+  min-width: 40vw;
+  text-align: left;
 }
 
 .mainHeader p { 
-  font-size: 150px;
+  font-size: 60px;
 }
