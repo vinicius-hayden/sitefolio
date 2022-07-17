@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.mainHeader {
+.banner {
   background-image: url('https://media.vanityfair.com/photos/5b86dbc14242d94606988409/master/pass/wild-nothing-lede.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -13,8 +13,11 @@
   min-height: 50vh;
   min-width: 40vw;
   text-align: left;
+  display: flex;
+  align-items: flex-end;
 }
 
-.mainHeader p { 
+.banner p { 
   font-size: 60px;
+  margin-left: 25px;
 }
