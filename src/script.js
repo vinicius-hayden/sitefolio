@@ -15,7 +15,7 @@ window.addEventListener('load', function() {
   liA.innerText = 'Songs';
 
   body.appendChild(banner);
-  // banner.setAttribute('class', 'banner');
+  banner.setAttribute('class', 'banner');
 
   banner.appendChild(slider);
   slider.setAttribute('class', 'firstslide')
