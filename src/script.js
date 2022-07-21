@@ -17,7 +17,7 @@ window.addEventListener('load', function() {
   body.appendChild(banner);
   banner.setAttribute('class', 'banner');
 
-  banner.appendChild(slider);
+  // banner.appendChild(slider);
   slider.setAttribute('class', 'firstslide')
   slider.appendChild(img1);
   img1.setAttribute(images[0])
