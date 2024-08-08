@@ -74,11 +74,12 @@ export default function App() {
             <article>
               <h1 className="title">About me</h1>
               <p>
-                Currently studying at Digital House Brasil in the Certified Tech Developer 
-                course developed by Mercado Livre and Globant. Experience in Ruby with Ruby
-                on Rails, and JavaScript with Node, as well as Web Development in HTML5 and 
-                CSS with Tailwind and Bootstrap frameworks, mostly acquiring these languages
-                and frameworks through auto-didacticism.
+              Computer Programming and Analysis student at Seneca Polytechnic, with experience in full-stack development, 
+              particularly in JavaScript and Java-based environments. I have honed my skills through a Full Stack Development
+              Internship at Digital House Brasil. My techo various 
+              languages and frameworks, including React, MySQL, Docker, and AWS, which I have used to build, maintain, and 
+              optimize scalable and efficient applications. Passionate about problem-solving and continuous learning, 
+              I am committed to advancing my knowledge and skills in software engineering.
               </p>
               <p>
                 Passionate about learning new technologies and in the idea of sharing experiences
