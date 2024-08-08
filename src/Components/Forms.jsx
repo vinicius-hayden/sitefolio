@@ -88,9 +88,9 @@ export default function Forms() {
               <label htmlFor="subject" className="c-form__label">Subject</label>
               <select id="subject" className="c-form__control">
                 <option enabled='true'> What is it about? </option>
-                <option defaultValue="orcamento">Orçamento</option>
-                <option defaultValue="oportunidade">Oportunidade</option>
-                <option defaultValue="parceria">Parcerias</option>
+                <option defaultValue="orcamento">Budget</option>
+                <option defaultValue="oportunidade">Opportunities</option>
+                <option defaultValue="parceria">Sponsorship</option>
               </select>
             </div>
             <div className="c-form__group">
